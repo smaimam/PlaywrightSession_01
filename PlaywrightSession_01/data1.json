@@ -1,0 +1,21 @@
+{
+  "Login": {
+    "url": "https://adactinhotelapp.com",
+    "username": "AmirImam",
+    "password": "AmirImam",
+    "location": "Sydney",
+    "hotel": "Hotel Creek",
+    "roomType": "Standard",
+    "roomNo": "1 - One",
+    "dateIn": "2023-03-01",
+    "dateOut": "2023-03-10",
+    "adultRoom": "1 - One",
+    "childRoom": "0 - None",
+    "firstName": "Huda",
+    "lastName": "Aleem",
+    "address": "Karachi",
+    "CCNo": "12345678912121214",
+    "CvvNo": "325"
+  }
+}
+
